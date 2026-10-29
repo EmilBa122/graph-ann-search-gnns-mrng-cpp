@@ -14,6 +14,9 @@ distances are computed with the **Euclidean metric (L2)**.
 <a href="https://www.linkedin.com/in/apostolos-bonotis-8a54a3243/" target="_blank"><b>Apostolos Nikolaos Bonotis</b></a> <br>
 <a href="https://www.linkedin.com/in/emil-bantak-2219b3292/" target="_blank"><b>Emil Bantak</b></a>
 
+**[Apostolos Nikolaos Bonotis](https://www.linkedin.com/in/apostolos-bonotis-8a54a3243/)** <br>
+**[Emil Bantak]([https://example.com/emil](https://www.linkedin.com/in/emil-bantak-2219b3292/))**
+
 ## Work distribution
 
 ### A part of the assignment (GNNS)
