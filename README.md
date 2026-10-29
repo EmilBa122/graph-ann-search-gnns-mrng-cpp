@@ -11,8 +11,8 @@ distances are computed with the **Euclidean metric (L2)**.
 
 ## Authors
 
-**Apostolos Nikolaos Bonotis** <br>
-**Emil Bantak** 
+<a href="https://www.linkedin.com/in/apostolos-bonotis-8a54a3243/" target="_blank"><b>Apostolos Nikolaos Bonotis</b></a> <br>
+<a href="https://www.linkedin.com/in/emil-bantak-2219b3292/" target="_blank"><b>Emil Bantak</b></a>
 
 ## Work distribution
 
